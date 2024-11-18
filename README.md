@@ -1,4 +1,4 @@
-## **Project Name:** BioSeqGen: Protein-SMILES Sequence Generation and Analysis
+## **BioSeqGen:**  Protein-SMILES Sequence Generation and Analysis
 
 ### **Project Overview**
 **BioSeqGen** is a research-driven project designed to bridge the gap between protein and chemical compound understanding by leveraging machine learning techniques. The project aims to explore the intricate relationships between proteins and SMILES sequences using advanced neural network architectures, enabling tasks such as sequence generation, prediction of binding affinities, and representation learning. This work finds applications in drug discovery, protein-ligand interaction analysis, and bioinformatics.
